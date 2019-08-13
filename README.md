@@ -1,2 +1,5 @@
 # SpringBootStudy
-This repository is created for learning Spring Boot, and every branch is built for every stage of learning. The references is write in the Readme. If the repository help you a little, I will very happy. :-)
+## Section Begin
+This section is about some theory of Spring, dependency injection, and the scope (design pattern) which spring use to start application. :-)
+ 
+ 
